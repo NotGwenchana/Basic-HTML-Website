@@ -1,0 +1,26 @@
+header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+nav {
+    display: flex;
+    gap: 10px;
+}
+
+.first, .fd {
+    align-items: center;
+}
+H1 {
+    font-style: italic; 
+}
+
+p {
+    font-style: italic;
+    font-weight: bold;
+}
+
+ul {
+    list-style-type: "- ";
+}
